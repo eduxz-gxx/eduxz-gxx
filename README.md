@@ -33,7 +33,7 @@
    
 - 💻 **Desarrollador** especializado en **Python** y **PHP**
   
-- 🎮 Experto en **PocketMine-MP** → **API 2.0.0** + **protocolo 81** (Minecraft PE servers y plugins)
+- 🎮 Experto en **PocketMine-MP** → **API 2.0.0** + **protocolo 84** (Minecraft PE servers y plugins)
    
 - 📹 **YouTuber** Reviews, Plugins, Tutoriales y Directos
   
