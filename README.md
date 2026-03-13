@@ -31,7 +31,7 @@
 
 - 🐺 **Furry** – Developer de la Comunidad Furry
    
-- 💻 **Desarrollador** especializado en **Python** y **PHP**
+- 💻 **Desarrollador** especializado en **pocketmine**
   
 - 🎮 Experto en **PocketMine-MP** → **API 2.0.0** + **protocolo 84** (Minecraft PE servers y plugins)
    
@@ -41,7 +41,7 @@
   
 - 🚀 Trabajo en Plugins, Servidores, Networks o Cores (a lo que sea que me inviten)
 
-"Codifica las estrellas. Rompe los límites. Aúllale a la luna." 🐺✨
+"Fuistes tan feliz que no comprendiste que no es por siempre - Milo J" 🌱
 
 <br>
 
