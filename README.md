@@ -17,7 +17,6 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-Expert-1E90FF?style=for-the-badge&logo=python&logoColor=white&labelColor=000033)
 ![PHP](https://img.shields.io/badge/PHP-Advanced-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000033)
 ![PocketMine](https://img.shields.io/badge/PocketMine%20API-2.0.0-4169E1?style=for-the-badge&logo=minecraft&logoColor=white&labelColor=00008B)
 ![Protocol](https://img.shields.io/badge/Protocol-81-blueviolet?style=for-the-badge)
